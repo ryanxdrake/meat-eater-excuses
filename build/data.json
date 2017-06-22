@@ -1,301 +1,85 @@
 {
     "items": [
         {
-            "excuse": "This is what Apple does."
+            "excuse": "I love my dog. Just not all animals."
         },
         {
-            "excuse": "It’s a Material Design thing."
+            "excuse": "Save the whales. Eat a pig."
         },
         {
-            "excuse": "_____ does it like this, and they have like 500M users."
+            "excuse": "It's my personal choice to eat meat. Even if the animal doesn't have a choice to live."
         },
         {
-            "excuse": "This is how everyone does it. We should do it this way."
+            "excuse": "I could never harm an animal myself. So I pay someone else to do the killing for me."
         },
         {
-            "excuse": "This is how everyone does it. We shouldn't do it this way."
+            "excuse": "I love saying 'bacon', rather than 'dead pig'. It sounds better in my head."
         },
         {
-            "excuse": "I wanted to try something different."
+            "excuse": "I just love the taste of dead animal flesh and cow's breast milk."
         },
         {
-            "excuse": "I saw a design on Tumblr that looks like this."
+            "excuse": "But I need meat for protein. #Gains."
         },
         {
-            "excuse": "Whitespace looks better. It looks so clean!"
+            "excuse": "Because I feel better if I buy free-range eggs, and organic, grass-fed beef. Even though the chickens and cows are still slaughtered 'humanely'. Deep down, I know there's no such thing as a humane killing."
         },
         {
-            "excuse": "We’re industry leaders. Sometimes you just have to take risks."
+            "excuse": "I'm too apathetic to change the way I eat."
         },
         {
-            "excuse": "That must be an older version you’re seeing."
+            "excuse": "I KNOW that animal agriculture is the biggest contributor to climate change, species extinction and ocean depletion. But #yolo. Meat rocks."
         },
         {
-            "excuse": "I [got a Masters/did online training/saw a tweet], so trust me on this."
+            "excuse": "Because milk in my coffee is delicious - even if female cows were raped in the process. Yum! "
         },
         {
-            "excuse": " I just read* a great article on Medium about this <em>(*saw the title).</em>"
+            "excuse": "Ice cream is the best. I never hear the cows scream."
         },
         {
-            "excuse": "We’ll just revisit this after the launch (we won’t)."
+            "excuse": "Wait. I didn't know other animals had feelings? I thought it was only my dog."
         },
         {
-            "excuse": "Our team loved the design."
+            "excuse": "Do animals even feel pain?"
         },
         {
-            "excuse": "[The most important stakeholder] loved the design."
+            "excuse": "But...cheese! Cheese is way more important to me than cruelty to a cow."
         },
         {
-            "excuse": "Dribbble and Behance loved the design."
+            "excuse": "I couldn't give up yoghurt - even if it is filled with pus and hormones from a cow."
         },
         {
-            "excuse": "The old man sitting on the couch with me at Starbucks loved the design."
+            "excuse": "'Lamb' is easier to digest than 'dead sheep flesh'."
         },
         {
-            "excuse": "We can go with function or form, but not both."
+            "excuse": "I like eggs. Even if they are chicken periods and chickens are force-fed and slaughtered just so I can enjoy my bacon and eggs."
         },
         {
-            "excuse": "We can change it, I’m not married to it (our honeymoon is tomorrow)."
+            "excuse": "I'm oblivious to the billions of animals mass slaughtered each and every year, just so I can enjoy my steak, bacon and eggs."
         },
         {
-            "excuse": "It’s like Uber, but for [super specific, unrelated B2B software app]."
+            "excuse": "Vegans are so judgemental. Forcing their beliefs on everyone. Why would I want to be a compassionate human, when I can continue eating dead animal flesh daily?"
         },
         {
-            "excuse": "It’s like [app no one has heard of], but for [some worse idea]."
+            "excuse": "The cow was already dead. Might as well eat it! I know, I know...if the buying stops, the killing will too. But logic doesn't work on me."
         },
         {
-            "excuse": "We’ll just put some charts there."
+            "excuse": "The words 'leather' and 'fur' are much more comfortable to say than 'dead animal skin'."
         },
         {
-            "excuse": "It’s a delighter!"
+            "excuse": "Vegans aren't strong. They don't eat enough protein."
         },
         {
-            "excuse": "GIFs are all the rage right now."
+            "excuse": "Plants have feelings too."
         },
         {
-            "excuse": "All the best companies use parallax."
+            "excuse": "I don't want to eat salad forever! Death tastes better."
         },
         {
-            "excuse": "Don’t you think it’ll look boring without it?"
+            "excuse": "Be a man. Eat meat. Disregard the fact that I'm a grown man still drinking milk from a mother cow!"
         },
         {
-            "excuse": "I’m not worried. A dev should be able to implement this pretty easily."
-        },
-        {
-            "excuse": "But if I make it a PDF then you won’t see the animation…"
-        },
-        {
-            "excuse": "Computers are fast! Page size and load time aren’t an issue anymore."
-        },
-        {
-            "excuse": "You must not have [that obscure font I used] installed."
-        },
-        {
-            "excuse": "Microsoft is notorious for bad font rendering. People don’t use Windows."
-        },
-        {
-            "excuse": "I can’t share TypeKit fonts, so you’ll have to wait until we present it."
-        },
-        {
-            "excuse": "The sharpness is probably just too high on your screen."
-        },
-        {
-            "excuse": "We won’t look premium if we don’t use [some obscure font]."
-        },
-        {
-            "excuse": "Too small? How can you not read that?"
-        },
-        {
-            "excuse": "The text is already dark enough. I like it #FAFAFA."
-        },
-        {
-            "excuse": "Your [TV/phone/monitor/tablet/Palm Pilot] probably isn’t calibrated."
-        },
-        {
-            "excuse": "The brand palette is too limited for what we want to do."
-        },
-        {
-            "excuse": "It’s softer on the eyes this way."
-        },
-        {
-            "excuse": "I wanted it to really stand out. You know…super punchy."
-        },
-        {
-            "excuse": "It’s the Pantone color of the year!"
-        },
-        {
-            "excuse": "InVision must be acting up."
-        },
-        {
-            "excuse": "You’re probably looking at a cached version."
-        },
-        {
-            "excuse": "It must not have synced to [Dropbox/Google Drive]."
-        },
-        {
-            "excuse": "That’s just a bug in Sketch."
-        },
-        {
-            "excuse": "It screwed up the design when I updated my app."
-        },
-        {
-            "excuse": "That’s probably a limitation of the app."
-        },
-        {
-            "excuse": "We’re still on the free version."
-        },
-        {
-            "excuse": "Sorry, I’ve been updating Adobe applications all day."
-        },
-        {
-            "excuse": "My design application keeps crashing."
-        },
-        {
-            "excuse": "Dev must have screwed it up."
-        },
-        {
-            "excuse": "No one uses IE anyway."
-        },
-        {
-            "excuse": "That must be a bug in Chrome."
-        },
-        {
-            "excuse": "That effect should be supported in the latest nightly build of Chrome."
-        },
-        {
-            "excuse": "Just have dev draw it in CSS."
-        },
-        {
-            "excuse": "I think this should be really easy with a framework."
-        },
-        {
-            "excuse": "A user would never do that anyway (they will)."
-        },
-        {
-            "excuse": "Our users all have MacBooks and use Chrome."
-        },
-        {
-            "excuse": "Oh come on, no one builds Android apps anymore."
-        },
-        {
-            "excuse": "What do you mean your projector isn’t 4K?"
-        },
-        {
-            "excuse": "You shouldn’t have your screen brightness all the way down."
-        },
-        {
-            "excuse": "Hmm, it doesn’t look like that on my computer."
-        },
-        {
-            "excuse": "Isn’t your display retina?"
-        },
-        {
-            "excuse": "Maybe it got caught in your spam."
-        },
-        {
-            "excuse": "I’m guessing it just looks bad in “Preview” mode."
-        },
-        {
-            "excuse": "Ah sorry, the file is too big to send. I’ll show you next week."
-        },
-        {
-            "excuse": "Oh, I sent it to the wrong “Petr Rozhdestvenskiy."
-        },
-        {
-            "excuse": "I just sent it over (lie). Did it not go through?"
-        },
-        {
-            "excuse": "My colleague was supposed to send it <em>(oh sh*t, I completely forgot).</em>"
-        },
-        {
-            "excuse": "I forgot to add you to that email thread (I didn’t)."
-        },
-        {
-            "excuse": "I’m almost done, but don’t want to spoil it <em>(I haven’t started yet).</em>"
-        },
-        {
-            "excuse": "We can figure out the details in code."
-        },
-        {
-            "excuse": "I’m not worried about that right now."
-        },
-        {
-            "excuse": "We have it designed on the whiteboard back at the office <em>(I’m stalling).</em>"
-        },
-        {
-            "excuse": "I don’t want to distract you with low-fidelity."
-        },
-        {
-            "excuse": "It’s not what you asked for and I’m afraid you’ll get mad."
-        },
-        {
-            "excuse": "It’s taking longer than I thought <em>(again…I haven’t started yet).</em>"
-        },
-        {
-            "excuse": "Sorry, my computer has been really laggy today."
-        },
-        {
-            "excuse": "Can we do a remote meeting today <em>(so I can work on another project)</em>?"
-        },
-        {
-            "excuse": "I can’t start until I have all of the requirements."
-        },
-        {
-            "excuse": "I can’t start until research is done."
-        },
-        {
-            "excuse": "I can’t start until we document all edge-cases."
-        },
-        {
-            "excuse": "I can’t start until we decide on a color."
-        },
-        {
-            "excuse": "I can’t start until we decide on a name."
-        },
-        {
-            "excuse": "I can’t start until all 29 people join the conference call."
-        },
-        {
-            "excuse": "I was watching the Apple Keynote."
-        },
-        {
-            "excuse": "We can always iterate on this <em>(we probably won’t)</em>."
-        },
-        {
-            "excuse": "This isn’t the final design <em>(lol, yes it is).</em>"
-        },
-        {
-            "excuse": "We should probably use a hamburger menu."
-        },
-        {
-            "excuse": "We’re <em>definitely</em> not using a hamburger menu."
-        },
-        {
-            "excuse": "That wasn’t in the original requirements <em>(I skipped that intentionally).</em>"
-        },
-        {
-            "excuse": "Design rules are meant to be broken."
-        },
-        {
-            "excuse": "Dev has really been holding me back."
-        },
-        {
-            "excuse": "You just haven’t seen it done this way before."
-        },
-        {
-            "excuse": "This is what your napkin sketch looked like, right?"
-        },
-        {
-            "excuse": "I basically just did what my PM told me to do."
-        },
-        {
-            "excuse": "We’ll work on it next sprint."
-        },
-        {
-            "excuse": "It’s better than what we have."
-        },
-        {
-            "excuse": "We’ll just put it in a modal."
-        }
+            "excuse": "Vegans should just shut the hell up. OK, I admit I'm eating dead animals and don't give a fuck. There, I said it."
+        }   
     ]
 }
