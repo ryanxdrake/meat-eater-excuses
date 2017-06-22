@@ -1,12 +1,12 @@
 {
-  "name": "DesignerExcuses",
+  "name": "Meat Eater Excuses",
   "version": "1.0.0",
-  "description": "Excuses for Designers",
+  "description": "Excuses for Meat Eaters",
   "main": "readme.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kamal Nayan",
+  "author": "Ryan Drake",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.0",
