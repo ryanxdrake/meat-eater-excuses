@@ -1,400 +1,301 @@
 {
     "items": [
         {
-            "excuse": "This is what Apple does.",
-            "regarding": "Inspiration"
+            "excuse": "This is what Apple does."
         },
         {
-            "excuse": "It’s a Material Design thing.",
-            "regarding": "Inspiration"
+            "excuse": "It’s a Material Design thing."
         },
         {
-            "excuse": "_____ does it like this, and they have like 500M users.",
-            "regarding": "Inspiration"
+            "excuse": "_____ does it like this, and they have like 500M users."
         },
         {
-            "excuse": "This is how everyone does it. We should do it this way.",
-            "regarding": "Inspiration"
+            "excuse": "This is how everyone does it. We should do it this way."
         },
         {
-            "excuse": "This is how everyone does it. We shouldn't do it this way.",
-            "regarding": "Inspiration"
+            "excuse": "This is how everyone does it. We shouldn't do it this way."
         },
         {
-            "excuse": "I wanted to try something different.",
-            "regarding": "Design"
+            "excuse": "I wanted to try something different."
         },
         {
-            "excuse": "I saw a design on Tumblr that looks like this.",
-            "regarding": "Design"
+            "excuse": "I saw a design on Tumblr that looks like this."
         },
         {
-            "excuse": "Whitespace looks better. It looks so clean!",
-            "regarding": "Design"
+            "excuse": "Whitespace looks better. It looks so clean!"
         },
         {
-            "excuse": "We’re industry leaders. Sometimes you just have to take risks.",
-            "regarding": "Design"
+            "excuse": "We’re industry leaders. Sometimes you just have to take risks."
         },
         {
-            "excuse": "That must be an older version you’re seeing.",
-            "regarding": "Design"
+            "excuse": "That must be an older version you’re seeing."
         },
         {
-            "excuse": "I [got a Masters/did online training/saw a tweet], so trust me on this.",
-            "regarding": "Design"
+            "excuse": "I [got a Masters/did online training/saw a tweet], so trust me on this."
         },
         {
-            "excuse": " I just read* a great article on Medium about this <em>(*saw the title).</em>",
-            "regarding": "Design"
+            "excuse": " I just read* a great article on Medium about this <em>(*saw the title).</em>"
         },
         {
-            "excuse": "We’ll just revisit this after the launch (we won’t).",
-            "regarding": "Design"
+            "excuse": "We’ll just revisit this after the launch (we won’t)."
         },
         {
-            "excuse": "Our team loved the design.",
-            "regarding": "Design"
+            "excuse": "Our team loved the design."
         },
         {
-            "excuse": "[The most important stakeholder] loved the design.",
-            "regarding": "Design"
+            "excuse": "[The most important stakeholder] loved the design."
         },
         {
-            "excuse": "Dribbble and Behance loved the design.",
-            "regarding": "Design"
+            "excuse": "Dribbble and Behance loved the design."
         },
         {
-            "excuse": "The old man sitting on the couch with me at Starbucks loved the design.",
-            "regarding": "Design"
+            "excuse": "The old man sitting on the couch with me at Starbucks loved the design."
         },
         {
-            "excuse": "We can go with function or form, but not both.",
-            "regarding": "Design"
+            "excuse": "We can go with function or form, but not both."
         },
         {
-            "excuse": "We can change it, I’m not married to it (our honeymoon is tomorrow).",
-            "regarding": "Design"
+            "excuse": "We can change it, I’m not married to it (our honeymoon is tomorrow)."
         },
         {
-            "excuse": "It’s like Uber, but for [super specific, unrelated B2B software app].",
-            "regarding": "Design"
+            "excuse": "It’s like Uber, but for [super specific, unrelated B2B software app]."
         },
         {
-            "excuse": "It’s like [app no one has heard of], but for [some worse idea].",
-            "regarding": "Design"
+            "excuse": "It’s like [app no one has heard of], but for [some worse idea]."
         },
         {
-            "excuse": "We’ll just put some charts there.",
-            "regarding": "Design"
+            "excuse": "We’ll just put some charts there."
         },
         {
-            "excuse": "It’s a delighter!",
-            "regarding": "Animation"
+            "excuse": "It’s a delighter!"
         },
         {
-            "excuse": "GIFs are all the rage right now.",
-            "regarding": "Animation"
+            "excuse": "GIFs are all the rage right now."
         },
         {
-            "excuse": "All the best companies use parallax.",
-            "regarding": "Animation"
+            "excuse": "All the best companies use parallax."
         },
         {
-            "excuse": "Don’t you think it’ll look boring without it?",
-            "regarding": "Animation"
+            "excuse": "Don’t you think it’ll look boring without it?"
         },
         {
-            "excuse": "I’m not worried. A dev should be able to implement this pretty easily.",
-            "regarding": "Animation"
+            "excuse": "I’m not worried. A dev should be able to implement this pretty easily."
         },
         {
-            "excuse": "But if I make it a PDF then you won’t see the animation…",
-            "regarding": "Animation"
+            "excuse": "But if I make it a PDF then you won’t see the animation…"
         },
         {
-            "excuse": "Computers are fast! Page size and load time aren’t an issue anymore.",
-            "regarding": "Animation"
+            "excuse": "Computers are fast! Page size and load time aren’t an issue anymore."
         },
         {
-            "excuse": "You must not have [that obscure font I used] installed.",
-            "regarding": "Fonts"
+            "excuse": "You must not have [that obscure font I used] installed."
         },
         {
-            "excuse": "Microsoft is notorious for bad font rendering. People don’t use Windows.",
-            "regarding": "Fonts"
+            "excuse": "Microsoft is notorious for bad font rendering. People don’t use Windows."
         },
         {
-            "excuse": "I can’t share TypeKit fonts, so you’ll have to wait until we present it.",
-            "regarding": "Fonts"
+            "excuse": "I can’t share TypeKit fonts, so you’ll have to wait until we present it."
         },
         {
-            "excuse": "The sharpness is probably just too high on your screen.",
-            "regarding": "Fonts"
+            "excuse": "The sharpness is probably just too high on your screen."
         },
         {
-            "excuse": "We won’t look premium if we don’t use [some obscure font].",
-            "regarding": "Fonts"
+            "excuse": "We won’t look premium if we don’t use [some obscure font]."
         },
         {
-            "excuse": "Too small? How can you not read that?",
-            "regarding": "Fonts"
+            "excuse": "Too small? How can you not read that?"
         },
         {
-            "excuse": "The text is already dark enough. I like it #FAFAFA.",
-            "regarding": "Fonts"
+            "excuse": "The text is already dark enough. I like it #FAFAFA."
         },
         {
-            "excuse": "Your [TV/phone/monitor/tablet/Palm Pilot] probably isn’t calibrated.",
-            "regarding": "Colors"
+            "excuse": "Your [TV/phone/monitor/tablet/Palm Pilot] probably isn’t calibrated."
         },
         {
-            "excuse": "The brand palette is too limited for what we want to do.",
-            "regarding": "Colors"
+            "excuse": "The brand palette is too limited for what we want to do."
         },
         {
-            "excuse": "It’s softer on the eyes this way.",
-            "regarding": "Colors"
+            "excuse": "It’s softer on the eyes this way."
         },
         {
-            "excuse": "I wanted it to really stand out. You know…super punchy.",
-            "regarding": "Colors"
+            "excuse": "I wanted it to really stand out. You know…super punchy."
         },
         {
-            "excuse": "It’s the Pantone color of the year!",
-            "regarding": "Colors"
+            "excuse": "It’s the Pantone color of the year!"
         },
         {
-            "excuse": "InVision must be acting up.",
-            "regarding": "Design Tools"
+            "excuse": "InVision must be acting up."
         },
         {
-            "excuse": "You’re probably looking at a cached version.",
-            "regarding": "Design Tools"
+            "excuse": "You’re probably looking at a cached version."
         },
         {
-            "excuse": "It must not have synced to [Dropbox/Google Drive].",
-            "regarding": "Design Tools"
+            "excuse": "It must not have synced to [Dropbox/Google Drive]."
         },
         {
-            "excuse": "That’s just a bug in Sketch.",
-            "regarding": "Design Tools"
+            "excuse": "That’s just a bug in Sketch."
         },
         {
-            "excuse": "It screwed up the design when I updated my app.",
-            "regarding": "Design Tools"
+            "excuse": "It screwed up the design when I updated my app."
         },
         {
-            "excuse": "That’s probably a limitation of the app.",
-            "regarding": "Design Tools"
+            "excuse": "That’s probably a limitation of the app."
         },
         {
-            "excuse": "We’re still on the free version.",
-            "regarding": "Design Tools"
+            "excuse": "We’re still on the free version."
         },
         {
-            "excuse": "Sorry, I’ve been updating Adobe applications all day.",
-            "regarding": "Design Tools"
+            "excuse": "Sorry, I’ve been updating Adobe applications all day."
         },
         {
-            "excuse": "My design application keeps crashing.",
-            "regarding": "Design Tools"
+            "excuse": "My design application keeps crashing."
         },
         {
-            "excuse": "Dev must have screwed it up.",
-            "regarding": "Development"
+            "excuse": "Dev must have screwed it up."
         },
         {
-            "excuse": "No one uses IE anyway.",
-            "regarding": "Development"
+            "excuse": "No one uses IE anyway."
         },
         {
-            "excuse": "That must be a bug in Chrome.",
-            "regarding": "Development"
+            "excuse": "That must be a bug in Chrome."
         },
         {
-            "excuse": "That effect should be supported in the latest nightly build of Chrome.",
-            "regarding": "Development"
+            "excuse": "That effect should be supported in the latest nightly build of Chrome."
         },
         {
-            "excuse": "Just have dev draw it in CSS.",
-            "regarding": "Development"
+            "excuse": "Just have dev draw it in CSS."
         },
         {
-            "excuse": "I think this should be really easy with a framework.",
-            "regarding": "Development"
+            "excuse": "I think this should be really easy with a framework."
         },
         {
-            "excuse": "A user would never do that anyway (they will).",
-            "regarding": "Development"
+            "excuse": "A user would never do that anyway (they will)."
         },
         {
-            "excuse": "Our users all have MacBooks and use Chrome.",
-            "regarding": "Development"
+            "excuse": "Our users all have MacBooks and use Chrome."
         },
         {
-            "excuse": "Oh come on, no one builds Android apps anymore.",
-            "regarding": "Development"
+            "excuse": "Oh come on, no one builds Android apps anymore."
         },
         {
-            "excuse": "What do you mean your projector isn’t 4K?",
-            "regarding": "Presentation"
+            "excuse": "What do you mean your projector isn’t 4K?"
         },
         {
-            "excuse": "You shouldn’t have your screen brightness all the way down.",
-            "regarding": "Presentation"
+            "excuse": "You shouldn’t have your screen brightness all the way down."
         },
         {
-            "excuse": "Hmm, it doesn’t look like that on my computer.",
-            "regarding": "Presentation"
+            "excuse": "Hmm, it doesn’t look like that on my computer."
         },
         {
-            "excuse": "Isn’t your display retina?",
-            "regarding": "Presentation"
+            "excuse": "Isn’t your display retina?"
         },
         {
-            "excuse": "Maybe it got caught in your spam.",
-            "regarding": "Email"
+            "excuse": "Maybe it got caught in your spam."
         },
         {
-            "excuse": "I’m guessing it just looks bad in “Preview” mode.",
-            "regarding": "Email"
+            "excuse": "I’m guessing it just looks bad in “Preview” mode."
         },
         {
-            "excuse": "Ah sorry, the file is too big to send. I’ll show you next week.",
-            "regarding": "Email"
+            "excuse": "Ah sorry, the file is too big to send. I’ll show you next week."
         },
         {
-            "excuse": "Oh, I sent it to the wrong “Petr Rozhdestvenskiy.",
-            "regarding": "Email"
+            "excuse": "Oh, I sent it to the wrong “Petr Rozhdestvenskiy."
         },
         {
-            "excuse": "I just sent it over (lie). Did it not go through?",
-            "regarding": "Email"
+            "excuse": "I just sent it over (lie). Did it not go through?"
         },
         {
-            "excuse": "My colleague was supposed to send it <em>(oh sh*t, I completely forgot).</em>",
-            "regarding": "Email"
+            "excuse": "My colleague was supposed to send it <em>(oh sh*t, I completely forgot).</em>"
         },
         {
-            "excuse": "I forgot to add you to that email thread (I didn’t).",
-            "regarding": "Email"
+            "excuse": "I forgot to add you to that email thread (I didn’t)."
         },
         {
-            "excuse": "I’m almost done, but don’t want to spoil it <em>(I haven’t started yet).</em>",
-            "regarding": "Progress"
+            "excuse": "I’m almost done, but don’t want to spoil it <em>(I haven’t started yet).</em>"
         },
         {
-            "excuse": "We can figure out the details in code.",
-            "regarding": "Progress"
+            "excuse": "We can figure out the details in code."
         },
         {
-            "excuse": "I’m not worried about that right now.",
-            "regarding": "Progress"
+            "excuse": "I’m not worried about that right now."
         },
         {
-            "excuse": "We have it designed on the whiteboard back at the office <em>(I’m stalling).</em>",
-            "regarding": "Progress"
+            "excuse": "We have it designed on the whiteboard back at the office <em>(I’m stalling).</em>"
         },
         {
-            "excuse": "I don’t want to distract you with low-fidelity.",
-            "regarding": "Progress"
+            "excuse": "I don’t want to distract you with low-fidelity."
         },
         {
-            "excuse": "It’s not what you asked for and I’m afraid you’ll get mad.",
-            "regarding": "Progress"
+            "excuse": "It’s not what you asked for and I’m afraid you’ll get mad."
         },
         {
-            "excuse": "It’s taking longer than I thought <em>(again…I haven’t started yet).</em>",
-            "regarding": "Progress"
+            "excuse": "It’s taking longer than I thought <em>(again…I haven’t started yet).</em>"
         },
         {
-            "excuse": "Sorry, my computer has been really laggy today.",
-            "regarding": "Progress"
+            "excuse": "Sorry, my computer has been really laggy today."
         },
         {
-            "excuse": "Can we do a remote meeting today <em>(so I can work on another project)</em>?",
-            "regarding": "Progress"
+            "excuse": "Can we do a remote meeting today <em>(so I can work on another project)</em>?"
         },
         {
-            "excuse": "I can’t start until I have all of the requirements.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until I have all of the requirements."
         },
         {
-            "excuse": "I can’t start until research is done.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until research is done."
         },
         {
-            "excuse": "I can’t start until we document all edge-cases.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until we document all edge-cases."
         },
         {
-            "excuse": "I can’t start until we decide on a color.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until we decide on a color."
         },
         {
-            "excuse": "I can’t start until we decide on a name.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until we decide on a name."
         },
         {
-            "excuse": "I can’t start until all 29 people join the conference call.",
-            "regarding": "Not started"
+            "excuse": "I can’t start until all 29 people join the conference call."
         },
         {
-            "excuse": "I was watching the Apple Keynote.",
-            "regarding": "Not started"
+            "excuse": "I was watching the Apple Keynote."
         },
         {
-            "excuse": "We can always iterate on this <em>(we probably won’t)</em>.",
-            "regarding": "They didn’t like the design"
+            "excuse": "We can always iterate on this <em>(we probably won’t)</em>."
         },
         {
-            "excuse": "This isn’t the final design <em>(lol, yes it is).</em>",
-            "regarding": "They didn’t like the design"
+            "excuse": "This isn’t the final design <em>(lol, yes it is).</em>"
         },
         {
-            "excuse": "We should probably use a hamburger menu.",
-            "regarding": "They didn’t like the design"
+            "excuse": "We should probably use a hamburger menu."
         },
         {
-            "excuse": "We’re <em>definitely</em> not using a hamburger menu.",
-            "regarding": "They didn’t like the design"
+            "excuse": "We’re <em>definitely</em> not using a hamburger menu."
         },
         {
-            "excuse": "That wasn’t in the original requirements <em>(I skipped that intentionally).</em>",
-            "regarding": "They didn’t like the design"
+            "excuse": "That wasn’t in the original requirements <em>(I skipped that intentionally).</em>"
         },
         {
-            "excuse": "Design rules are meant to be broken.",
-            "regarding": "They didn’t like the design"
+            "excuse": "Design rules are meant to be broken."
         },
         {
-            "excuse": "Dev has really been holding me back.",
-            "regarding": "They didn’t like the design"
+            "excuse": "Dev has really been holding me back."
         },
         {
-            "excuse": "You just haven’t seen it done this way before.",
-            "regarding": "They didn’t like the design"
+            "excuse": "You just haven’t seen it done this way before."
         },
         {
-            "excuse": "This is what your napkin sketch looked like, right?",
-            "regarding": "They didn’t like the design"
+            "excuse": "This is what your napkin sketch looked like, right?"
         },
         {
-            "excuse": "I basically just did what my PM told me to do.",
-            "regarding": "They didn’t like the design"
+            "excuse": "I basically just did what my PM told me to do."
         },
         {
-            "excuse": "We’ll work on it next sprint.",
-            "regarding": "They didn’t like the design"
+            "excuse": "We’ll work on it next sprint."
         },
         {
-            "excuse": "It’s better than what we have.",
-            "regarding": "They didn’t like the design"
+            "excuse": "It’s better than what we have."
         },
         {
-            "excuse": "We’ll just put it in a modal.",
-            "regarding": "They didn’t like the design"
+            "excuse": "We’ll just put it in a modal."
         }
     ]
 }
